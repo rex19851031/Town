@@ -1,0 +1,10 @@
+<!--
+<?xml version="1.0"?>
+<NPCBlueprint>
+	<NPC name="Goblin" faction="Goblin" glyph="G" color="0,128,64" maxHP="3" randomGenerate="true" >
+		<AIBehavior name="Wander" chanceOfRest="0.5" chanceOfMove="0.5" />
+		<AIBehavior name="Combat" basicDamage="1" attackRange="1" />
+		<AIBehavior name="SpawnNPC" npcName="Goblin" spawnThreshold="5" />
+	</NPC>
+</NPCBlueprint>
+-->

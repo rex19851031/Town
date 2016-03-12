@@ -1,0 +1,222 @@
+<?xml version="1.0" ?>
+<MapData>
+    <MapSlice>1111111111111111111111111111111111111111111111111111111111111111</MapSlice>
+    <MapSlice>1111111100000011111111000000111111110000001111111100000011111111</MapSlice>
+    <MapSlice>1000000100000010000001000000100000010000001000000000000010000001</MapSlice>
+    <MapSlice>1040040100000010000001000000100000010000001000000100000000000001</MapSlice>
+    <MapSlice>1000000100000010000001000000100000010000001000000100000010000001</MapSlice>
+    <MapSlice>1040040000000010000000000000100000000000000000000100000010000001</MapSlice>
+    <MapSlice>1000000111011110000001111110100000011111111000000111111110000001</MapSlice>
+    <MapSlice>1111110100000010101111000000111101110000001111011100000010111111</MapSlice>
+    <MapSlice>1000000000000010000001000000100000010000001000000100000010000001</MapSlice>
+    <MapSlice>1040003300040010322301000000000000010000000000000100000010000001</MapSlice>
+    <MapSlice>1000022220000010022001000000100000010000001000000000000000000001</MapSlice>
+    <MapSlice>1040022220040010322301000000100000010000001000000100000010000001</MapSlice>
+    <MapSlice>1000000000000110000001111110100000011111011000000111111110000001</MapSlice>
+    <MapSlice>1111101100000011101111000000111110110000001111111100000011110111</MapSlice>
+    <MapSlice>1000000000000010000001040040100000010400401000000100000010000001</MapSlice>
+    <MapSlice>1032230100000010033001000000100000010000000000000100000010000001</MapSlice>
+    <MapSlice>1002200100000010222201040040100000010400401000000100000000000001</MapSlice>
+    <MapSlice>1032230100000010222201000000000000010000001000000100000010000001</MapSlice>
+    <MapSlice>1000000111110110000001101111100000011111111000000111101110000001</MapSlice>
+    <MapSlice>1111111100000011110111040040110111110000001110111100000011110111</MapSlice>
+    <MapSlice>1000000104004010000001000000100000010000001000000166666610000001</MapSlice>
+    <MapSlice>1003300100500010000001000000000000010000001040040166666610000001</MapSlice>
+    <MapSlice>1022220104024010000001040040100000010000001000000066666610000001</MapSlice>
+    <MapSlice>1022220000000010000001000000100000010000001040040166666610000001</MapSlice>
+    <MapSlice>1000000110111110000001110111100000011101011000000166006610000001</MapSlice>
+    <MapSlice>1101110100000011110111000000111111110000001110110166006611101101</MapSlice>
+    <MapSlice>1000000100000010000001003300100000010400401000000166666610000001</MapSlice>
+    <MapSlice>1000000100000000000000022220100000000050000000000166666610000001</MapSlice>
+    <MapSlice>1000000100000010000001022220100000010402401000000166666610000001</MapSlice>
+    <MapSlice>1000000100000010000001000000000000010000001000000166666610000001</MapSlice>
+    <MapSlice>1000000111111110000001111111100000011111111000000111111110000001</MapSlice>
+    <MapSlice>1111111111111111111111111111111111111111111111111111111111111111</MapSlice>
+    <Visibility>0000000000000000000000000000000000000000000000000111111110000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000111111110000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000111111110000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000111111110000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000111111110000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000111111110000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000111111110000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+    <Visibility>0000000000000000000000000000000000000000000000000000000000000000</Visibility>
+</MapData>
+<NPCData>
+    <NPC name="Warden" id="218" location="27,20" faction="Warden" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Devil" value="2" />
+            <Faction name="Human" value="-2" />
+        </Factions>
+    </NPC>
+    <NPC name="LavaDevil" id="260" location="50,22" health="5" faction="Devil" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Human" value="-2" />
+        </Factions>
+    </NPC>
+    <NPC name="LavaDevil" id="261" location="9,23" health="5" faction="Devil" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Human" value="-2" />
+        </Factions>
+    </NPC>
+    <NPC name="Frog" id="262" location="43,23" health="1" faction="Frog" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Snake" value="-2" />
+        </Factions>
+    </NPC>
+    <NPC name="Frog" id="263" location="46,15" health="1" faction="Frog" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Snake" value="-2" />
+        </Factions>
+    </NPC>
+    <NPC name="Dragon" id="264" location="8,8" health="10" faction="Dragon" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Human" value="-2" />
+        </Factions>
+    </NPC>
+    <NPC name="Dragon" id="265" location="0,0" health="10" faction="Dragon" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Human" value="-2" />
+        </Factions>
+    </NPC>
+    <NPC name="Goblin" id="266" location="48,9" health="3" faction="Goblin" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Orc" value="-2" />
+        </Factions>
+    </NPC>
+    <NPC name="Goblin" id="267" location="17,29" health="3" faction="Goblin" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Orc" value="-2" />
+        </Factions>
+    </NPC>
+    <NPC name="Snake" id="268" location="62,26" health="5" faction="Snake" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Frog" value="-2" />
+        </Factions>
+    </NPC>
+    <NPC name="Snake" id="269" location="29,2" health="5" faction="Snake" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Frog" value="-2" />
+        </Factions>
+    </NPC>
+    <NPC name="Orc" id="270" location="34,25" health="8" faction="Orc" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Wolve" value="2" />
+            <Faction name="Human" value="-2" />
+        </Factions>
+    </NPC>
+    <NPC name="Orc" id="271" location="24,15" health="8" faction="Orc" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Wolve" value="2" />
+            <Faction name="Human" value="-2" />
+        </Factions>
+    </NPC>
+    <NPC name="Wolve" id="272" location="17,9" health="5" faction="Wolve" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Orc" value="2" />
+        </Factions>
+    </NPC>
+    <NPC name="Wolve" id="273" location="0,0" health="5" faction="Wolve" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1">
+        <Factions>
+            <Faction name="Orc" value="2" />
+        </Factions>
+    </NPC>
+</NPCData>
+<FeatureData>
+    <Feature name="WoodDoor" id="198" location="15,24" health="5" status="Off" />
+    <Feature name="WoodDoor" id="199" location="23,13" health="5" status="Off" />
+    <Feature name="WoodDoor" id="200" location="7,17" health="5" status="Off" />
+    <Feature name="WoodDoor" id="201" location="27,19" health="5" status="Off" />
+    <Feature name="WoodDoor" id="202" location="7,26" health="5" status="Off" />
+    <Feature name="WoodDoor" id="203" location="6,24" health="5" status="Off" />
+    <Feature name="WoodDoor" id="204" location="49,9" health="5" status="Off" />
+    <Feature name="WoodDoor" id="205" location="42,16" health="5" status="Off" />
+    <Feature name="WoodDoor" id="206" location="53,13" health="5" status="Off" />
+    <Feature name="WoodDoor" id="207" location="12,13" health="5" status="Off" />
+    <Feature name="HealingFountain" id="208" location="13,8" health="5" status="Off" />
+    <Feature name="WoodDoor" id="209" location="38,7" health="5" status="Off" />
+    <Feature name="HealingFountain" id="210" location="41,2" health="5" status="Off" />
+    <Feature name="WoodDoor" id="211" location="17,18" health="5" status="Off" />
+    <Feature name="WoodDoor" id="212" location="7,8" health="5" status="Off" />
+    <Feature name="WoodDoor" id="213" location="24,7" health="5" status="Off" />
+    <Feature name="WoodDoor" id="217" location="27,25" health="5" status="Off" />
+    <Feature name="WoodDoor" id="219" location="28,10" health="5" status="Off" />
+    <Feature name="WoodDoor" id="221" location="46,24" health="5" status="Off" />
+    <Feature name="WoodDoor" id="222" location="28,2" health="5" status="Off" />
+    <Feature name="WoodDoor" id="223" location="42,26" health="5" status="Off" />
+    <Feature name="WoodDoor" id="224" location="49,21" health="5" status="Off" />
+    <Feature name="WoodDoor" id="225" location="6,6" health="5" status="Off" />
+    <Feature name="WoodDoor" id="226" location="48,6" health="5" status="Off" />
+    <Feature name="WoodDoor" id="227" location="60,18" health="5" status="Off" />
+    <Feature name="WoodDoor" id="228" location="42,22" health="5" status="Off" />
+    <Feature name="WoodDoor" id="229" location="18,12" health="5" status="Off" />
+    <Feature name="WoodDoor" id="230" location="9,7" health="5" status="Off" />
+    <Feature name="WoodDoor" id="231" location="49,29" health="5" status="Off" />
+    <Feature name="WoodDoor" id="232" location="33,18" health="5" status="Off" />
+    <Feature name="WoodDoor" id="233" location="57,24" health="5" status="Off" />
+    <Feature name="WoodDoor" id="234" location="60,12" health="5" status="Off" />
+    <Feature name="WoodDoor" id="235" location="35,26" health="5" status="Off" />
+    <Feature name="WoodDoor" id="236" location="59,6" health="5" status="Off" />
+    <Feature name="WoodDoor" id="237" location="21,4" health="5" status="Off" />
+    <Feature name="WoodDoor" id="238" location="17,24" health="5" status="Off" />
+    <Feature name="WoodDoor" id="239" location="45,12" health="5" status="Off" />
+    <Feature name="WoodDoor" id="240" location="18,6" health="5" status="Off" />
+    <Feature name="WoodDoor" id="241" location="45,6" health="5" status="Off" />
+    <Feature name="WoodDoor" id="242" location="56,21" health="5" status="Off" />
+    <Feature name="WoodDoor" id="243" location="10,25" health="5" status="Off" />
+    <Feature name="WoodDoor" id="244" location="28,22" health="5" status="Off" />
+    <Feature name="WoodDoor" id="245" location="40,19" health="5" status="Off" />
+    <Feature name="WoodDoor" id="246" location="28,14" health="5" status="Off" />
+    <Feature name="WoodDoor" id="247" location="14,4" health="5" status="Off" />
+    <Feature name="WoodDoor" id="248" location="56,15" health="5" status="Off" />
+    <Feature name="WoodDoor" id="249" location="42,4" health="5" status="Off" />
+    <Feature name="WoodDoor" id="250" location="56,28" health="5" status="Off" />
+    <Feature name="WoodDoor" id="251" location="35,4" health="5" status="Off" />
+    <Feature name="WoodDoor" id="252" location="40,7" health="5" status="Off" />
+    <Feature name="WoodDoor" id="253" location="2,6" health="5" status="Off" />
+    <Feature name="WoodDoor" id="254" location="30,12" health="5" status="Off" />
+    <Feature name="WoodDoor" id="255" location="21,26" health="5" status="Off" />
+    <Feature name="WoodDoor" id="256" location="32,24" health="5" status="Off" />
+    <Feature name="WoodDoor" id="257" location="5,18" health="5" status="Off" />
+    <Feature name="WoodDoor" id="258" location="62,6" health="5" status="Off" />
+</FeatureData>
+<ItemData>
+    <Item name="MagicSword" id="216" location="53,6" />
+    <Item name="IceWand" id="220" location="27,8" />
+    <Item name="LongPants" id="276" location="62,22" />
+    <Item name="Dagger" id="277" location="8,12" />
+    <Item name="Gloves" id="278" location="48,9" />
+    <Item name="HealingPotion" id="280" location="28,2" />
+    <Item name="Boots" id="281" location="60,2" />
+    <Item name="ChestArmor" id="282" location="3,21" />
+    <Item name="Spare" id="283" location="5,4" />
+    <Item name="LongSword" id="284" location="62,27" />
+    <Item name="Pants" id="286" location="10,21" />
+    <Item name="ShortSword" id="287" location="15,27" />
+    <Item name="Sword" id="288" location="10,19" />
+</ItemData>
+<PlayerData totalTurns="0" monsterKilled="0" itemPicked="0" name="newbie" id="259" location="53,29" faction="Human" equipment="-1,-1,-1,-1,-1,-1,-1" durability="-1,-1,-1,-1,-1,-1,-1" />
+<PlayTime Seconds="2" />

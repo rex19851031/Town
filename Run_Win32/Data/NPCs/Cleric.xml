@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<NPCBlueprint>
+	<NPC name="Cleric" faction="Human" glyph="C" color="255,255,0" maxHP="13" randomGenerate="true" >
+		<AIBehavior name="Follow" leaderName="newbie" distanceThreshold="1.0" />
+		<AIBehavior name="Heal" healthThreshold="3" minHeal="4" maxHeal="6" />
+		<AIBehavior name="Combat" damage="4,7" attackRange="1" chanceToHit="0.5" />
+	</NPC>
+</NPCBlueprint>

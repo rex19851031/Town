@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<ItemBlueprint>
+	<Item name="Boots" category="Armor" glyph="[" slot="Boots" effectValue="10" durability="1" color="50,175,50" weight="1" randomGenerate="true" />
+</ItemBlueprint>

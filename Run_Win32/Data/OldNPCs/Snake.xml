@@ -1,0 +1,9 @@
+<!--
+<?xml version="1.0"?>
+<NPCBlueprint>
+	<NPC name="Snake" faction="Snake" glyph="S" color="255,0,255" maxHP="5" randomGenerate="true" >
+		<AIBehavior name="Wander" chanceOfRest="0.2" chanceOfMove="0.8" />
+		<AIBehavior name="Combat" basicDamage="1" attackRange="1" />
+	</NPC>
+</NPCBlueprint>
+-->

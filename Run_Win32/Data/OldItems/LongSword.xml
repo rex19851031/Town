@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<ItemBlueprint>
+	<Item name="LongSword" category="Weapon" slot="Weapon" glyph=")" attackRange="1" effectValue="5" durability="3" color="0,0,0" randomGenerate="true" />
+</ItemBlueprint>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<NPCBlueprint>
+	<NPC name="orc" glyph="O" color="0,255,0">
+		<AIBehavior name="Wander" rest="0.2" move="0.8"/>
+		<AIBehavior name="Chase" />
+	</NPC>
+</NPCBlueprint>

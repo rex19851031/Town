@@ -1,0 +1,11 @@
+<!--
+<?xml version="1.0"?>
+<NPCBlueprint>
+	<NPC name="Warden" faction="Warden" glyph="*" color="103,119,85" maxHP="100" randomGenerate="false" >
+		<AIBehavior name="Wander" chanceOfRest="0.5" chanceOfMove="0.5" />
+		<AIBehavior name="Chase" />
+		<AIBehavior name="Combat" basicDamage="5" attackRange="1" />
+		<AIBehavior name="Invulnerable" weakness="MagicSword" />
+	</NPC>
+</NPCBlueprint>
+-->

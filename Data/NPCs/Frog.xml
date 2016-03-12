@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<NPCBlueprint>
+	<NPC name="frog" glyph="F" color="0,128,255">
+		<AIBehavior name="Wander" rest="0.5" move="0.5"/>
+		<AIBehavior name="Chase" />
+	</NPC>
+</NPCBlueprint>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Factions>
+	<Faction name="Human"	ally="Human"	enemy="Undead" />
+	<Faction name="Human"	ally="Human"	enemy="Bats" />
+	<Faction name="Dragon" 	ally="" 		enemy="Human" />
+	<Faction name="Frog" 	ally="" 		enemy="Snake" />
+	<Faction name="Goblin" 	ally="Goblin"	enemy="Orc" />
+	<Faction name="Orc" 	ally="Wolve"	enemy="Human" />
+	<Faction name="Snake" 	ally="" 		enemy="Frog" />
+	<Faction name="Wolve" 	ally="Orc" 		enemy="" />
+	<Faction name="Devil" 	ally="" 		enemy="Human" />
+	<Faction name="Warden" 	ally="Devil" 	enemy="Human" />
+	<Faction name="Undead" 	ally="" 		enemy="Human" />
+	<Faction name="Bats" 	ally="" 		enemy="Human" />
+</Factions>

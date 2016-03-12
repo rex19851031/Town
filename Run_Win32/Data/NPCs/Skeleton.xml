@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<NPCBlueprint>
+	<NPC name="Skeleton" faction="Undead" glyph="s" color="255,255,255" maxHP="5" randomGenerate="true" >
+		<AIBehavior name="Wander" chanceOfRest="0.2" chanceOfMove="0.8" />
+		<AIBehavior name="Combat" damage="2,5" attackRange="1" chanceToHit="0.5" />
+		<AIBehavior name="Chase" />
+	</NPC>
+</NPCBlueprint>

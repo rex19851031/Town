@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<ItemBlueprint>
+	<Item name="MaceOfPurifying" category="Weapon" slot="Weapon" glyph="(" attackRange="1" effectValue="4,6" durability="100" color="255,255,255" randomGenerate="true" againstRace="Undead" />
+</ItemBlueprint>

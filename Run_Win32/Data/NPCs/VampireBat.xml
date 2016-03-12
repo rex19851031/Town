@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<NPCBlueprint>
+	<NPC name="VampireBat" faction="Bats" glyph="v" color="100,0,100" maxHP="4" randomGenerate="true" >
+		<AIBehavior name="Drains" minDrain="2" maxDrain="4" />
+		<AIBehavior name="Follow" leaderName="VampireBat" distanceThreshold="4.0" />
+		<AIBehavior name="Chase" />
+	</NPC>
+</NPCBlueprint>

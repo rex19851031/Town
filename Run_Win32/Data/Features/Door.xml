@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<Features>
+	<Feature name="WoodDoor" type="Door" glyphOn="+" glyphOff="-" color="255,128,255" maxHP="5" affectValue="0" radius="0" />
+</Features>

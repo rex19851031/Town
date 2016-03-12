@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<ItemBlueprint>
+	<Item name="HealingPotion" category="Potion" glyph="!" effectValue="5,10" durability="1" color="50,150,50" randomGenerate="true" />
+</ItemBlueprint>

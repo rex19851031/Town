@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<NPCBlueprint>
+	<NPC name="FireBat" faction="Bats" glyph="b" color="255,100,100" maxHP="4" randomGenerate="true" >
+		<AIBehavior name="Follow" leaderName="VampireBat" distanceThreshold="4.0" />
+		<AIBehavior name="Combat" damage="5,8" attackRange="1" chanceToHit="0.5" />
+		<AIBehavior name="Chase" />
+	</NPC>
+</NPCBlueprint>

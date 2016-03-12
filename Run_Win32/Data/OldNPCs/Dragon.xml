@@ -1,0 +1,9 @@
+<!--
+<?xml version="1.0"?>
+<NPCBlueprint>
+	<NPC name="Dragon" faction="Dragon" glyph="D" color="255,64,128" maxHP="10" randomGenerate="true" >
+		<AIBehavior name="Wander" chanceOfRest="0.8" chanceOfMove="0.2" />
+		<AIBehavior name="Combat" basicDamage="5" attackRange="1" />
+	</NPC>
+</NPCBlueprint> 
+-->

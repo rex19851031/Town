@@ -1,0 +1,11 @@
+<!--
+<?xml version="1.0"?>
+<NPCBlueprint>
+	<NPC name="LavaDevil" faction="Devil" glyph="L" color="150,20,20" maxHP="5" randomGenerate="true" >
+		<AIBehavior name="Wander" chanceOfRest="0.5" chanceOfMove="0.5" />
+		<AIBehavior name="Chase" />
+		<AIBehavior name="Melt" radius="2" />
+		<AIBehavior name="Combat" basicDamage="2" attackRange="1" />
+	</NPC>
+</NPCBlueprint> 
+-->

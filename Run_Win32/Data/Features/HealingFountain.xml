@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<Features>
+	<Feature name="HealingFountain" type="Fountain" affectValue="2" glyphOn="M" glyphOff="M" color="64,128,64" radius="2" maxHP="5" />
+</Features>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<NPCBlueprint>
+	<NPC name="Necromancer" faction="Undead" glyph="N" color="100,0,100" maxHP="25" randomGenerate="true" >
+		<AIBehavior name="Drains" minDrain="4" maxDrain="6" />
+		<AIBehavior name="SpawnNPC" npcName="Skeleton" spawnThreshold="5" chanceToSpawn="0.5"/>
+	</NPC>
+</NPCBlueprint>
